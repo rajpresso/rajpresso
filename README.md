@@ -1,5 +1,10 @@
 "# rajpresso " 
 
+# 👋 Hi, I'm Ryu Seungjin!
+💻 Software Developer | 🌟 Passionate about Open Source  
+I enjoy building impactful software and contributing to the developer community.
+
+
 ## 🚀 Projects
 
 ### 1. [영상기반 주취행동분석 및 주취운전 감지](https://github.com/rajpresso/IntoxiTrackSense)
@@ -25,11 +30,19 @@
 ---
 
 ### 2. [구음장애 음성인식](https://github.com/rajpresso/Voice_recognition)
-🔹 **Description**: Highlight the purpose or technology used.  
+🔹 **Description**: 발음이나 발성에 어려움이 있는 사용자의 말을 인식하고 이해할 수 있도록 설계된 특화된 모델로  STT 서비스를 목적으로 하였다.  
+
+*향후 경량화를 하여 앱과 웹서비스를 구축하여 서비를 제공하고자 한다 
+
+🔹 **Model** : Whisper, wav2vec2
+
 🔹 **Tech Stack**: python, pytotch,
 
 ---
 
 ### 3. [무단횡단자 감지](https://github.com/rajpresso/Jaywalk-detection)
 🔹 **Description**: 세종테크노파크에서는 세종 자율주행 시범운행지구 운영을 통해 자율주행 차량 데이터와 관제 데이터를 활용 횡단, 무단횡단 보행자를 감지하는 AI 경진대회
+아쉽게 수상을 하지 못하였다. 
+
+![프로세스 다이어그램](images/sejong.png)
 🔹 **Tech Stack**: python, pytotch
