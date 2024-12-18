@@ -1,9 +1,7 @@
-"# rajpresso " 
-
-# 👋 Hi, I'm Ryu Seungjin!
+# 👋 유승진
 💻 Software Developer | 🌟 Passionate about Open Source  
-I enjoy building impactful software and contributing to the developer community.
-
+안녕하세요!. java개발자에서 AI엔지니어로 전향한 개발자 입니다.  다양한 MODEL을 기반으로 실질적인 서비스를 제공할 수 있는지 고민하며, 
+AI 기술을 활용한 문제 해결과 비즈니스 가치를 창출하는 데 열정을 가지고 있습니다.
 
 ## 🚀 Projects
 
